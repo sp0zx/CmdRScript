@@ -1,6 +1,8 @@
 queueonteleport([[
-print("Hello, world!")
+loadstring(game:HttpGet('https://raw.githubusercontent.com/sp0zx/CmdRScript/refs/heads/main/.../1.lua'))()
 ]])
+
+loadstring(game:HttpGet("https://scriptblox.com/raw/Universal-Script-antiafk_YAMEN-230690"))()
 
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
